@@ -43,3 +43,4 @@ Ambiente criado exclusivamente para fins de estudo, sem dados reais ou informaç
 
 Este laboratório foi desenvolvido com base no *Curso Prático de Redes de Computadores*, da Hardware Redes Brasil Cursos, como parte do processo de aprendizado e fixação dos conceitos apresentados.
 
+![Laboratório de Redes](imagens/Dominio.PNG)
